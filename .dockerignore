@@ -1,0 +1,10 @@
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Pycharm
+.idea
+
+Dockerfile
+README.md
